@@ -5,4 +5,4 @@ Enhance your servers moderation with Nexity. A completely free bot to use with v
 - 👋 Discord Community Server: https://discord.gg/5wvJhj5jJZ
 - 🚀 Discordlist.gg: https://discordlist.gg/bot/1340816638009806868
 
-By inviting EasyShield, you agree to the terms and conditions outlined in the license agreement.
+By inviting Nexity, you agree to the terms and conditions outlined in the license agreement.
